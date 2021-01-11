@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am  blockchain/crypto specialist and I have rich experience in blockchain field such as crypto exchange and defi projects.
+## Blockchain/crypto specialist
+I have rich experience in blockchain field such as crypto exchange and defi projects.
 I am my team excels in new blockchain, centralized exchange, crypto payments, defi protocol and main skills are C++, Rust, Ruby on Rails, MYSQL, React, Javascript, Laravel, PHP etc.
 
 ## I have been successfully working in blockchain, exchange, dapp, and defi  development for more than 6 years.

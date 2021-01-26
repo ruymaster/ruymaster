@@ -21,6 +21,7 @@ I have rich experience in blockchain field such as crypto exchange and defi proj
 I am my team excels in <b>new blockchain, centralized exchange, crypto payments, defi protocol</b> and main skills are C++, Rust, Ruby on Rails, MYSQL, React, Javascript, Laravel, PHP etc.
 ### Exchange site
 <a href="https://ferraripay.exchange"> Ferraripay exchange </a>&nbsp;&nbsp;
+<a href="https://cryptonote.exchange"> Cryptonote exchange </a>&nbsp;&nbsp;
 ### Dapp and DEX
 <a href="https://dexbeta.julswap.com"> Julswap DEX </a>&nbsp;&nbsp;
 ## I have been successfully working in blockchain, exchange, dapp, and defi  development for more than 6 years.

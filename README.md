@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 ## Blockchain/Crypto Specialist
 I have rich experience in blockchain field such as crypto exchange and defi projects.
 I am my team excels in <b>new blockchain, centralized exchange, crypto payments, defi protocol</b> and main skills are C++, Rust, Ruby on Rails, MYSQL, React, Javascript, Laravel, PHP etc.
-### Exchange site
+<!-- ### Exchange site
 <a href="https://ferraripay.exchange"> Ferraripay exchange </a>&nbsp;&nbsp;
 <a href="https://cryptonote.exchange"> Cryptonote exchange </a>&nbsp;&nbsp;
 ### Dapp and DEX
-<a href="https://dexbeta.julswap.com"> Julswap DEX </a>&nbsp;&nbsp;
+<a href="https://dexbeta.julswap.com"> Julswap DEX </a>&nbsp;&nbsp; ---->
 ## I have been successfully working in blockchain, exchange, dapp, and defi  development for more than 6 years.
 In order to provide quality support and to promote the dynamic development of a client's business, I and my team possess qualities like flexibility in cooperation, stability, and the ability to ensure the quality of each process in the development of custom software.
 

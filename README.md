@@ -25,6 +25,7 @@ In order to provide quality support and to promote the dynamic development of a 
 
 ## Get your success with us! 
 <!----[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruymaster&show_icons=true&theme=radical)-->
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ruymaster&show_icons=true&theme=radical) 
 <p align='center'>
 <!----<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp; -->
 <!----<a href="https://.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp; -->

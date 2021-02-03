@@ -20,16 +20,13 @@ Here are some ideas to get you started:
 I have rich experience in blockchain field such as crypto exchange and defi projects.
 I am my team excels in <b>new blockchain, centralized exchange, crypto payments, defi protocol</b> and main skills are C++, Rust, Ruby on Rails, MYSQL, React, Javascript, Laravel, PHP etc.
 
-## 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭
+## Main Skills 
 <table>
   <tr>
   <td><img src="https://cdn.iconscout.com/icon/free/png-64/rubymine-1175004.png" width="100"> Rails </td>    
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"> Node.js</td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"> React</td>    
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"> Javascript</td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"> Github </td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"> MySQL</td>            
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"> Backend </td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="100"> C/C++ </td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"> Go</td>   
       <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"> Python </td>

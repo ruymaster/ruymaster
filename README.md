@@ -23,7 +23,7 @@ I and my team excels in <b>new blockchain, centralized exchange, crypto payments
 ## Main Skills 
 <table style="border-size:0px">
   <tr >
-  <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/rubymine-1175004.png" width="90"> Rails </td>    
+  <td style="border: none;"><a> Rails </a>    
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="90"> Node.js</td>
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="90"> React</td>    
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="90"> MySQL</td>            

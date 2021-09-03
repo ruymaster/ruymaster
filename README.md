@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Blockchain/Crypto Specialist
 I have rich experience in blockchain field such as crypto exchange and defi projects.
-I and my team excels in <b>new blockchain, centralized exchange, crypto payments, defi protocol</b> and main skills are C++, Rust, Ruby on Rails, MYSQL, React, Javascript, Laravel, PHP etc.
+I and my team excels in <b>decentralized app, new blockchain, centralized exchange, crypto payments, defi protocol</b> and main skills are C++, Rust, Ruby on Rails, MYSQL, React, Javascript, Laravel, PHP etc.
 
 ## Main Skills 
 [Ruby](https://www.ruby-lang.org/), [C/C++/C#](https://www.cplusplus.com/),  [Solidity](http://solidityproject.com/), [Javascript](https://www.javascript.com/),  [Node.js](https://nodejs.org/), [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/)

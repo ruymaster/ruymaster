@@ -21,20 +21,7 @@ I have rich experience in blockchain field such as crypto exchange and defi proj
 I and my team excels in <b>new blockchain, centralized exchange, crypto payments, defi protocol</b> and main skills are C++, Rust, Ruby on Rails, MYSQL, React, Javascript, Laravel, PHP etc.
 
 ## Main Skills 
-<table style="border-size:0px">
-  <tr >
-  <td style="border: none;"><a> Rails </a>    
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="90"> Node.js</td>
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="90"> React</td>    
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="90"> MySQL</td>            
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="90"> C/C++ </td>
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"> Go</td>   
-      <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="90"> Python </td>
-      <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="90"> Laravel </td>
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="60"> TypeScript</td>                        
-   </tr>
-  </table>
-  [Ruby](https://www.ruby-lang.org/), [C/C++/C#](https://www.cplusplus.com/),  [Solidity](http://solidityproject.com/), [Javascript](https://www.javascript.com/),  [Node.js](https://nodejs.org/), [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/)
+[Ruby](https://www.ruby-lang.org/), [C/C++/C#](https://www.cplusplus.com/),  [Solidity](http://solidityproject.com/), [Javascript](https://www.javascript.com/),  [Node.js](https://nodejs.org/), [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/)
 <!-- ### Exchange site
 <a href="https://ferraripay.exchange"> Ferraripay exchange </a>&nbsp;&nbsp;
 <a href="https://cryptonote.exchange"> Cryptonote exchange </a>&nbsp;&nbsp;

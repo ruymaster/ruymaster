@@ -34,7 +34,7 @@ I and my team excels in <b>new blockchain, centralized exchange, crypto payments
     <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="60"> TypeScript</td>                        
    </tr>
   </table>
-  
+  [Ruby](https://www.ruby-lang.org/), [C/C++/C#](https://www.cplusplus.com/),  [Solidity](http://solidityproject.com/), [Javascript](https://www.javascript.com/),  [Node.js](https://nodejs.org/), [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/)
 <!-- ### Exchange site
 <a href="https://ferraripay.exchange"> Ferraripay exchange </a>&nbsp;&nbsp;
 <a href="https://cryptonote.exchange"> Cryptonote exchange </a>&nbsp;&nbsp;

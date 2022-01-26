@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ## Blockchain/Crypto Specialist
 I have rich experience in blockchain field such as crypto exchange and defi projects.
-I and my team excels in <b>decentralized app, new blockchain, centralized exchange, crypto payments, defi protocol</b> and main skills are Solidity, C++, Rust, Ruby on Rails, MYSQL, React, Javascript, Laravel, PHP etc.
+I and my team excels in <b>decentralized app, new blockchain, centralized exchange, crypto payments, defi protocol</b> and main skills are Solidity, C++, Rust, Ruby on Rails, MYSQL, React, Javascript, etc.
 
 ## Main Skills 
-[Ruby](https://www.ruby-lang.org/), [C/C++/C#](https://www.cplusplus.com/),  [Solidity](http://solidityproject.com/), [Javascript](https://www.javascript.com/),  [Node.js](https://nodejs.org/), [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/)
+[Solidity](http://solidityproject.com/),  [Node.js](https://nodejs.org/), [Ruby](https://www.ruby-lang.org/), [C/C++/C#](https://www.cplusplus.com/),  [Javascript](https://www.javascript.com/),  [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/)
 <!-- ### Exchange site
 <a href="https://ferraripay.exchange"> Ferraripay exchange </a>&nbsp;&nbsp;
 <a href="https://cryptonote.exchange"> Cryptonote exchange </a>&nbsp;&nbsp;
@@ -38,5 +38,5 @@ In order to provide quality support and to promote the dynamic development of a 
 <!----<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp; -->
 <!----<a href="https://.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp; -->
 <a href="https://t.me/ruymaster"><img height="30" src="https://github.com/ruymaster/ruymaster/blob/main/assets/icons/telegram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ruy-master-a21863187/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"</a>
+<a href="https://www.linkedin.com/in/ruymaster/"><img height="30" src="https://static-exp1.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc"></a>
 </p>

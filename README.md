@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
 -->
 
-## Blockchain/Crypto Specialist
+## Blockchain/Defi Specialist
 I have rich experience in blockchain field such as crypto exchange and defi projects.
-I and my team excels in <b>decentralized app, new blockchain, centralized exchange, crypto payments, defi protocol</b> and main skills are Solidity, C++, Rust, Ruby on Rails, MYSQL, React, Javascript, etc.
+I and my team excels in <b>defi protocol, new blockchain, centralized exchange, crypto payments</b> and main skills are Solidity, C++, Rust, Ruby on Rails, MYSQL, React, Javascript, etc.
 
 ## Main Skills 
 [Solidity](http://solidityproject.com/),  [Node.js](https://nodejs.org/), [Ruby](https://www.ruby-lang.org/), [C/C++/C#](https://www.cplusplus.com/),  [Javascript](https://www.javascript.com/),  [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/)
@@ -27,7 +27,7 @@ I and my team excels in <b>decentralized app, new blockchain, centralized exchan
 <a href="https://cryptonote.exchange"> Cryptonote exchange </a>&nbsp;&nbsp;
 ### Dapp and DEX
 <a href="https://dexbeta.julswap.com"> Julswap DEX </a>&nbsp;&nbsp; ---->
-## I have been successfully working in blockchain, exchange, dapp, and defi  development for more than 6 years.
+## I have been successfully working in blockchain and defi fields like DEX, NFT marketplace, and Lending protocol for more than 6 years.
 In order to provide quality support and to promote the dynamic development of a client's business, I and my team possess qualities like flexibility in cooperation, stability, and the ability to ensure the quality of each process in the development of custom software.
 
 ## Get your success with us! 

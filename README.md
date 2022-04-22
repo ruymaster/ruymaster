@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
 -->
 
-## Blockchain/Defi Specialist
-I have rich experience in blockchain field such as crypto exchange and defi projects.
+## Senior Blockchain/Web3 Engineer
+I have expensive experience in blockchain/web3 field such as defi projects.
 I and my team excels in <b>defi protocol, new blockchain, centralized exchange, crypto payments</b> and main skills are Solidity, C++, Rust, Ruby on Rails, MYSQL, React, Javascript, etc.
 
 ## Main Skills 

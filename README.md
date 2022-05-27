@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Senior Blockchain/Web3 Engineer
 I have expensive experience in blockchain/web3 field such as defi projects.
-I and my team excels in <b>defi protocol, new blockchain, centralized exchange, crypto payments</b> and main skills are Solidity, C++, Rust, Ruby on Rails, MYSQL, React, Javascript, etc.
+I and my team excels in <b>defi protocol, new blockchain, centralized exchange, crypto payments</b> and main skills are Solidity, Go, Rust, Node.js, Ruby on Rails, MYSQL, React, Javascript, etc.
 
 ## Main Skills 
 [Solidity](http://solidityproject.com/),  [Node.js](https://nodejs.org/), [Ruby](https://www.ruby-lang.org/), [C/C++/C#](https://www.cplusplus.com/),  [Javascript](https://www.javascript.com/),  [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/)

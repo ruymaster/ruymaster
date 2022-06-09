@@ -1,4 +1,4 @@
-## Senior Blockchain Fullstack Engineer <a href="https://t.me/ruymaster"><img height="30" src="https://github.com/ruymaster/ruymaster/blob/main/assets/icons/telegram.png?raw=true"></a> 
+## Senior Blockchain Fullstack Engineer <a href="https://t.me/ruymaster"><img height="24" src="https://github.com/ruymaster/ruymaster/blob/main/assets/icons/telegram.png?raw=true"></a> 
 I have been developed several big projects as a blockchain fullstack engineer.
 I and my team excels in <b>defi protocol, new blockchain, centralized exchange, crypto payments</b> and main skills are Solidity, Go, Rust, Node.js, Ruby on Rails, MYSQL, React, Javascript, etc.
 

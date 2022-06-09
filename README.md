@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 [![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
 -->
 
-## Senior Blockchain/Web3 Engineer
-I have expensive experience in blockchain/web3 field such as defi projects.
+## Senior Blockchain Fullstack Engineer
+I have been developed several big projects as a blockchain fullstack enineer.
 I and my team excels in <b>defi protocol, new blockchain, centralized exchange, crypto payments</b> and main skills are Solidity, Go, Rust, Node.js, Ruby on Rails, MYSQL, React, Javascript, etc.
 
 ## Main Skills 
@@ -27,7 +27,7 @@ I and my team excels in <b>defi protocol, new blockchain, centralized exchange, 
 <a href="https://cryptonote.exchange"> Cryptonote exchange </a>&nbsp;&nbsp;
 ### Dapp and DEX
 <a href="https://dexbeta.julswap.com"> Julswap DEX </a>&nbsp;&nbsp; ---->
-## I have been successfully working in blockchain and defi fields like DEX, NFT marketplace, and Lending protocol for more than 6 years.
+## I have been successfully worked in blockchain and defi fields like DEX, NFT marketplace, and Lending protocol for more than 6 years.
 In order to provide quality support and to promote the dynamic development of a client's business, I and my team possess qualities like flexibility in cooperation, stability, and the ability to ensure the quality of each process in the development of custom software.
 
 ## Get your success with us! 
@@ -38,5 +38,4 @@ In order to provide quality support and to promote the dynamic development of a 
 <!----<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp; -->
 <!----<a href="https://.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp; -->
 <a href="https://t.me/ruymaster"><img height="30" src="https://github.com/ruymaster/ruymaster/blob/main/assets/icons/telegram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ruymaster/"><img height="30" src="https://static-exp1.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc"></a>
 </p>

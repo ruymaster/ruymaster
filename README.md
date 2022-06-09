@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## Senior Blockchain Fullstack Engineer
-I have been developed several big projects as a blockchain fullstack enineer.
+I have been developed several big projects as a blockchain fullstack engineer.
 I and my team excels in <b>defi protocol, new blockchain, centralized exchange, crypto payments</b> and main skills are Solidity, Go, Rust, Node.js, Ruby on Rails, MYSQL, React, Javascript, etc.
 
 ## Main Skills 

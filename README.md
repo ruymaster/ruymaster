@@ -1,22 +1,4 @@
-### Hi there! Nice to meet you! 👋
-
-<!--
-**ruymaster/ruymaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
--->
-
-## Senior Blockchain Fullstack Engineer
+## Senior Blockchain Fullstack Engineer <a href="https://t.me/ruymaster"><img height="30" src="https://github.com/ruymaster/ruymaster/blob/main/assets/icons/telegram.png?raw=true"></a> 
 I have been developed several big projects as a blockchain fullstack engineer.
 I and my team excels in <b>defi protocol, new blockchain, centralized exchange, crypto payments</b> and main skills are Solidity, Go, Rust, Node.js, Ruby on Rails, MYSQL, React, Javascript, etc.
 
@@ -37,5 +19,5 @@ In order to provide quality support and to promote the dynamic development of a 
 <p align='center'>
 <!----<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp; -->
 <!----<a href="https://.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp; -->
-<a href="https://t.me/ruymaster"><img height="30" src="https://github.com/ruymaster/ruymaster/blob/main/assets/icons/telegram.png?raw=true"></a>&nbsp;&nbsp;
+&nbsp;&nbsp;
 </p>

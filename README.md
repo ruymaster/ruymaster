@@ -1,5 +1,5 @@
 ## Senior Blockchain Fullstack Engineer <a href="https://t.me/ruymaster"><img height="24" src="https://github.com/ruymaster/ruymaster/blob/main/assets/icons/telegram.png?raw=true"></a> 
-I have been developed several big projects as a blockchain fullstack engineer. I have been successfully worked in <b>blockchain development like L1, L2, and sidechain, defi protocols like compound, balancer, uniswap and so on, nft projects like minting, marketplace, crypto exchange, crypto payments</b>.
+I have been developed several big projects as a blockchain fullstack engineer. I have been successfully worked in <b>blockchain development like L1, L2, and sidechain, defi protocols like compound, balancer, uniswap, multichain bridges and so on, nft projects like minting, marketplace, crypto exchange, crypto payments</b>.
 
 ## Main Skills 
 [Solidity](http://solidityproject.com/),  [Node.js](https://nodejs.org/), [Ruby](https://www.ruby-lang.org/), [C/C++/C#](https://www.cplusplus.com/),  [Javascript](https://www.javascript.com/),  [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Python](https://www.python.org/), [Rust](https://www.rust-lang.org/) and so on.

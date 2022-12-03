@@ -2,7 +2,7 @@
 I have been developed several big projects as a blockchain fullstack engineer. I have been successfully worked in <b>blockchain development like L1, L2, and sidechain, defi protocols like compound, balancer, uniswap, multichain bridges and so on, nft projects like minting, marketplace, crypto exchange, crypto payments</b>.
 
 ## Main Skills 
-[Solidity](http://solidityproject.com/),  [Node.js](https://nodejs.org/), [Golang](https://go.dev/), [Rust](https://www.rust-lang.org/), [Ruby](https://www.ruby-lang.org/), [C/C++/C#](https://www.cplusplus.com/),  [Javascript](https://www.javascript.com/),  [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Python](https://www.python.org/).
+[Solidity](http://solidityproject.com/),  [Node.js](https://nodejs.org/), [Golang](https://go.dev/), [Rust](https://www.rust-lang.org/), [Ruby](https://www.ruby-lang.org/), [C/C++/C#](https://www.cplusplus.com/),  [Javascript](https://www.javascript.com/),  [TypeScript](https://www.typescriptlang.org/), [React.js](https://reactjs.org/), [Python](https://www.python.org/), [Move].
 
 In order to provide quality support and to promote the dynamic development of a client's business, I possess qualities like flexibility in cooperation, stability, and the ability to ensure the quality of each process in the development of custom software.
 
